@@ -11,5 +11,5 @@ variable "pemfile" {
 }
 
 variable "servercount" {
-  default = 1   # Number of EC2 instances you want
+  default = 3   # Number of EC2 instances you want
 }
